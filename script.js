@@ -35,4 +35,7 @@
                 estado.className = 'badge bg-secondary';
             }
         });
+        function iraintegrantes() {
+            window.location.href = "integrantes.html";
+        }
     
